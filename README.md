@@ -1,6 +1,6 @@
 # Welcome to My Reactjs Calculator
 
-![Alt screenshot image](image\screenshot_calculator.png)
+![Alt screenshot image](src/image/screenshot_calculator.png)
 
 ## Task
 On this project we had to create a simple calculator with react.
